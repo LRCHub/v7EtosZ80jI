@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "DYT",
+  "base_artist": "ITZY",
+  "createdAt": "2025-12-07T10:14:04.246022Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Dyt i bamsen",
+      "artist": "Rollo & King",
+      "has_synced": true,
+      "path": "select/01_Dyt_i_bamsen_Rollo_&_King.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Rollo & King - Dyt I Bamsen",
+      "artist": "Nicho",
+      "has_synced": true,
+      "path": "select/02_Rollo_&_King_-_Dyt_I_Bamsen_Nicho.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Dyt I Bamsen (Keen's Retro Junk Edit)",
+      "artist": "Rollo & King",
+      "has_synced": false,
+      "path": "select/03_Dyt_I_Bamsen_(Keen's_Retro_Junk_Edit)_Rollo_&_King.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Dyt I bamsen",
+      "artist": "Rollo",
+      "has_synced": true,
+      "path": "select/04_Dyt_I_bamsen_Rollo.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "DYT",
+      "artist": "ITZY",
+      "has_synced": true,
+      "path": "select/05_DYT_ITZY.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "DYT",
+      "artist": "ITZY",
+      "has_synced": false,
+      "path": "select/pl_01_DYT_ITZY.txt"
+    }
+  ]
+}
